@@ -1,0 +1,35 @@
+/* .cell{
+    display: inline-block;
+    border:1px solid black;
+    width:70px;
+    height:70px;
+    font-size:36px;
+    text-align: center;
+} */
+
+/* input{
+    display:block;
+} */
+
+.cell{
+    display:inline-block;
+    border: 1px solid black;
+    width:70px;
+    height:70px;
+    font-size: 36px;
+    text-align: center;
+    line-height:70px;
+}
+
+h1{
+    text-align: center;
+}
+
+.emptyCell{
+    width:60px;
+    height:60px;
+    display:inline-block;
+    text-align: center;
+    border: 1px solid transparent;
+
+}
